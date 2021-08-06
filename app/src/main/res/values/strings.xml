@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MusicX Dev</string>
     <string name="musicx">MusicX</string>
+    <string name="adjust_volume">Adjust Volume</string>
 </resources>
